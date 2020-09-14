@@ -1,6 +1,4 @@
-package src;
-
-class fixme {
+public class FixMe {
     public static void main(String[] args) {
         System.out.println("AP Computer Science A introduces students to computer science through programming.");
         System.out.println("Fundamental topics in this course include the design of solutions to problems, the use of");
